@@ -1,3 +1,3 @@
-theabdullahchaudhary/my-app
-port 8080
+image: theabdullahchaudhary/my-app
+open port 8080
 
