@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: hmbilal108944/thanksimage
+        image: nginx:1.14.2
         ports:
         - containerPort: 80
