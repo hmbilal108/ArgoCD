@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: abhishekf5/todoapp:v1
+        image: nginx:latest
         ports:
         - containerPort: 80
